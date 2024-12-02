@@ -39,7 +39,6 @@ Um conjunto de regras fuzzy relaciona as entradas (`Erro`, `DeltaErro`) à saíd
   - `setpoint`: Altitude desejada (em metros).
   - `posicao_atual`: Posição inicial do drone.
   - `tempo`: Tempo de simulação (em segundos).
-  - `dt`: Intervalo de tempo (em segundos).
 - Durante a simulação, o código calcula o erro, a variação do erro, e atualiza a posição do drone com base na saída fuzzy.
 
 ### 4. Publicação MQTT
