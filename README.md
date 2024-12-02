@@ -75,10 +75,14 @@ O broker e o tópico podem ser ajustados nas variáveis:
 
 ### Interface feita no Node-red
 
+![interface_node_red](./imagens/interface_node_red.png)
+
 ![interface](./imagens/interface.png)
 
 ### Exemplo de Gráfico
 - Deslocamento do Drone: Mostra a posição atual comparada ao setpoint ao longo do tempo.
+
+![grafico_node_red](./imagens/grafico_node_red.png)
 
 ![grafico](./imagens/grafico.png)
 
